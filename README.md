@@ -1,0 +1,1 @@
+#  uses MongoDB, Express.js, React.js, and Node.js for real-time communication, For real-time communication, the application integrates Socket.io, enabling instantaneous message delivery and live chat experiences. JSON is used for data exchange between the client and server, ensuring lightweight and efficient communication.
